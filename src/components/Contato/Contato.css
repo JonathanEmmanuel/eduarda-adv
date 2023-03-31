@@ -1,0 +1,12 @@
+ .contato-cointainer {
+     display: flex;
+     align-items: center;
+     justify-content: Center;
+     background-color: #212328;
+ }
+
+ .mensagem {
+     color: #eaebf0;
+     font-weight: 600;
+     text-transform: uppercase;
+ }
