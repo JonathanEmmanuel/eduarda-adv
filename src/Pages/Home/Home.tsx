@@ -1,6 +1,7 @@
 import { Apresentacao } from "../../components/Apresentacao/Apresentacao"
 import { AreasAtuacao } from "../../components/AreasAtuacao/AreasAtuacao"
 import { Contato } from "../../components/Contato/Contato";
+import { Diferenciais } from "../../components/Diferenciais/Diferenciais";
 import { Footer } from "../../components/Footer/Footer"
 import { Topo } from "../../components/Topo/Topo"
 import './Home.css';
@@ -19,6 +20,7 @@ export function Home() {
                 <section id="contato">
                     <Contato />
                 </section>
+                <Diferenciais />
                 <Footer></Footer>
             </main>
         </>

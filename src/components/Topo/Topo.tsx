@@ -13,6 +13,7 @@ export function Topo() {
                             <ul>
                                 <li><a href="#apresentacao">Apresentação</a></li>
                                 <li><a href="#atuacao">Atuação</a></li>
+                                <li><a href="#atuacao">Diferenciais</a></li>
                                 <li><a href="#contato">Contato</a></li>
                             </ul>
                         </nav>

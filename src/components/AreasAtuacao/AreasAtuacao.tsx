@@ -1,6 +1,6 @@
 import './AreasAtuacao.css';
 
-import { FaBalanceScale, FaGavel, FaBookOpen, FaMoneyCheckAlt } from 'react-icons/fa';
+import { FaBalanceScale, FaBriefcase, FaBuilding , FaGavel  } from 'react-icons/fa';
 
 export function AreasAtuacao() {
     return (
@@ -15,45 +15,37 @@ export function AreasAtuacao() {
                         <br />
                         <br />
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            vitae ligula sed libero tristique finibus. Sed justo velit,
-                            pharetra ac augue a, consequat consectetur metus.
+                        Conte com ajuda especializada para solucionar problemas referentes a Contratos, Direito de família, Inventários, Responsabilidade civil, entre outros. Posso orientá-lo sobre seus direitos e deveres, bem como representá-lo em processos judiciais ou extrajudiciais, garantindo seus direitos e protegendo seus interesses.
                         </p>
                     </div>
                     <div className="area">
-                        <FaGavel className="icon" />
+                        <FaBriefcase className="icon" />
                         <h3>Direito do Trabalho</h3>
                         <br />
                         <br />
                         <br />
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            vitae ligula sed libero tristique finibus. Sed justo velit,
-                            pharetra ac augue a, consequat consectetur metus.
+                        Conheça seus direitos trabalhistas e garanta uma relação saudável com sua empresa. Saiba mais sobre férias, FGTS, jornada de trabalho e muito mais. Proteja-se e valorize seu trabalho!
                         </p>
                     </div>
                     <div className="area">
-                        <FaBookOpen className="icon" />
-                        <h3>Direito Previdenciário</h3>
+                        <FaBuilding className="icon" />
+                        <h3>Direito Empresarial</h3>
                         <br />
                         <br />
                         <br />
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            vitae ligula sed libero tristique finibus. Sed justo velit,
-                            pharetra ac augue a, consequat consectetur metus.
+                        Se você é um empresário e precisa de ajuda com assuntos relacionados a contratos comerciais, sociedades empresariais e falência, um advogado especializado pode ajudá-lo a tomar as melhores decisões para o seu negócio, proteger seus interesses e evitar problemas legais. Não deixe de buscar ajuda profissional para garantir o sucesso da sua empresa.
                         </p>
                     </div>
                     <div className="area">
-                        <FaMoneyCheckAlt className="icon" />
-                        <h3>Direito Tributário</h3>
+                        <FaGavel className="icon" />
+                        <h3>Direito Criminal</h3>
                         <br />
                         <br />
                         <br />
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-                            vitae ligula sed libero tristique finibus. Sed justo velit,
-                            pharetra ac augue a, consequat consectetur metus.
+                        Com especialidade em Direito criminal, posso ajudá-lo a entender seus direitos e opções legais, ajudando-o a obter resultados favoráveis em acusações criminais, processos em fase de execução, bem como em recursos de condenação. Não arrisque sua liberdade ou futuro tentando enfrentar sozinho o sistema de justiça criminal.
                         </p>
                     </div>
                 </div>
