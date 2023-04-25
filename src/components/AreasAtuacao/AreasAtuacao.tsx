@@ -5,8 +5,8 @@ import { FaBalanceScale, FaBriefcase, FaBuilding , FaGavel  } from 'react-icons/
 export function AreasAtuacao() {
     return (
         <section className="atuacao">
-            <div className="container">
                 <h2 className="borda">Atuação</h2>
+            <div className="container">
                 <div className="areas">
                     <div className="area">
                         <FaBalanceScale className="icon" />

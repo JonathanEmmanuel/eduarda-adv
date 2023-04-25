@@ -11,10 +11,10 @@ export function Topo() {
 
                         <nav>
                             <ul>
-                                <li><a href="#apresentacao">Apresentação</a></li>
+                                <li><a href="#apresentacao">Inicio</a></li>
                                 <li><a href="#atuacao">Atuação</a></li>
-                                <li><a href="#atuacao">Diferenciais</a></li>
                                 <li><a href="#contato">Contato</a></li>
+                                <li><a href="#diferenciais">Diferenciais</a></li>
                             </ul>
                         </nav>
                 </div>

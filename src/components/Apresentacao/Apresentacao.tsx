@@ -6,7 +6,7 @@ export function Apresentacao(props: any) {
             <div className="mensagem-centro">
                 <span className="borda">Eduarda Xavier</span>
                 <br />
-                <p>Um escritório de advocacia pronto para te representar<br /> e atender aos seus interesses da melhor forma possível.</p>
+                <p>Escritório de advocacia que oferece soluções jurídicas personalizadas para atender às necessidades de cada cliente, de maneira ética, responsável e comprometida. </p>
             </div>
             </div>
 

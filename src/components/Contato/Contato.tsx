@@ -2,7 +2,7 @@ import { PhotoCard } from '../PhotoCard/PhotoCard';
 import perfil from '../../common/images/perfil.jpg'
 import './Contato.css';
 
-export function Contato(){
+export function Contato() {
     const mensagem = `https://wa.me/+5583986491905?text=Olá! Como posso ajudar?`;
     return (
         <div className="contato-cointainer">

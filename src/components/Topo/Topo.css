@@ -36,6 +36,7 @@ nav ul {
   justify-content: center;
   align-items: center;
   padding: 1rem;
+  overflow-x: auto; /* nova propriedade */
 }
 
 nav ul li {
@@ -44,7 +45,7 @@ nav ul li {
 
 nav ul li a {
   font-weight: 600;
-  text-transform: uppercase;
+  
 }
 
 nav ul li a:hover {
@@ -59,6 +60,7 @@ nav ul li a:hover {
     flex-direction: column;
     justify-content: space-between;
     height: auto;
+    padding: 1rem; /* nova propriedade */
   }
 
   nav {
