@@ -2,7 +2,6 @@ import './Diferenciais.css';
 import  hrs from '../../common/images/24-hr.png';
 import atendimentoOnline from '../../common/images/atendimento-online.png';
 import brasil from '../../common/images/brasil.png';
-import logo from '../../common/images/logo2.png';
 
 export function Diferenciais() {
     return (
